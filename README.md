@@ -19,7 +19,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/larforshi/plume-auto-swap.git
 ```
 ```bash
-cd auto-swap-plume-season-2-in-4-Dapps
+cd plume-auto-swap
 ```
 ```bash
 npm install
