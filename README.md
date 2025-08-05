@@ -16,7 +16,7 @@ A lightweight Node.js bot that automatically swaps between PLUME and pUSD on the
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/forcetwoq/auto-swap-plume-season-2-in-4-Dapps.git
+git clone https://github.com/larforshi/plume-auto-swap.git
 ```
 ```bash
 cd auto-swap-plume-season-2-in-4-Dapps
